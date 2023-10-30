@@ -23,8 +23,8 @@ From their site: "Our experience leads us to believe that a thoughtful combinati
 For me, with the incredible amount of news that is out there, I find it very convenient to be able to go to one source for overall
 news and find out if something big has happened.
 
-	I would like to be able to not only see the quantity of companies, but to be able to search the headlines 
-	(which only go back so far on the site itself). 
+I would like to be able to not only see the quantity of companies, but to be able to search the headlines 
+(which only go back so far on the site itself). 
 
 techmeme-headlines
 
