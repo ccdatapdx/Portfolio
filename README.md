@@ -4,8 +4,12 @@ Welcome to my portfolio! I am showcasing my data projects within various reposit
 
 # TechMeme Headlines Pipeline
 
+techmeme-headlines
 
-
-
+techmeme-llm-processing
 
 # YouTube Comments Pipeline
+
+yt-data-api
+
+yt-comments-nlp-process
