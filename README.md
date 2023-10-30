@@ -32,6 +32,6 @@ techmeme-llm-processing
 
 # YouTube Comments Pipeline
 
-yt-data-api
+[yt-data-api](https://github.com/ccdatapdx/yt-data-api)
 
 yt-comments-nlp-process
