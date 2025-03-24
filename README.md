@@ -1,4 +1,4 @@
-# Data Engineering Portfolio: Casey Cushing
+# Data Analytics and Engineering Portfolio: Casey Cushing
 
 Welcome to my portfolio! I am showcasing each data project within multiple repositories. I have chosen to use AWS Lambda Docker images, and thus I have seperate repositories for each.
 
@@ -31,6 +31,8 @@ techmeme-headlines
 techmeme-llm-processing
 
 # YouTube Comments Pipeline
+![system diagram of youtube comments pipeline](https://github.com/ccdatapdx/Portfolio/blob/master/youtube_comment_pipeline.png)
+
 
 [yt-data-api](https://github.com/ccdatapdx/yt-data-api)
 
