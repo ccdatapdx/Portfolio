@@ -60,7 +60,7 @@ When I was doing media data analysis, the PR account executive folks, doing comm
 Once I learned about this practice after helping out on some reporting on the site for mentions of various tech brands, 
 I started using it myself to follow tech news.
 
-It is a news aggregator, but what differentiates it is human curation of news stories, written by tech journalists who are very influential...
+It is a news aggregator, but what differentiates it is human curation of news stories, written by tech journalists who are very influential.
 
 The PR folks, obviously viewed it as meaningful to get news placements from the various outlets and particular journalists.
 
