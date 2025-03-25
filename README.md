@@ -40,11 +40,15 @@ Sometime ago, I had found this collection of text files of UN Speeches from 1970
 
 [techmeme-llm-processing](https://github.com/ccdatapdx/techmeme-headlines)
 
+[dbt_transformations](https://github.com/ccdatapdx/dbt_transformations/tree/master/models/techmeme_nlp)
+
 **CI/CD:** GitHub Actions
 
 **Compute:** AWS Lambda
 
 **Data Transformation:** DBT Cloud
+
+**Orchestration/Scheduling:** AWS EventBridge
 
 **Data Warehousing:** Google BigQuery
 
@@ -92,11 +96,15 @@ I would like to be able to not only see the quantity of companies, but to be abl
 
 [yt-comments-nlp-process](https://github.com/ccdatapdx/yt-comments-nlp-process)
 
+[dbt_transformations](https://github.com/ccdatapdx/dbt_transformations/tree/master/models/yt_comments_nlp)
+
 **CI/CD:** GitHub Actions
 
 **Compute:** AWS Lambda
 
 **Data Transformation:** DBT Cloud
+
+**Orchestration/Scheduling:** AWS EventBridge
 
 **Data Warehousing:** Google BigQuery
 
