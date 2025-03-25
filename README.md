@@ -4,6 +4,26 @@ Welcome to my portfolio!
 
 The pipelines using a Serverless architecture will have multiple repositories (linked from this page).
 
+# Audible.com Data Cleaning and Analysis
+
+My preffered way to consume books is through audiobooks, so when I came across the dataset on the platform Kaggle, I wanted to see what insights I could uncover.
+
+**Data Source:** Kaggle.com
+
+[The Jupyter Notebook](https://github.com/ccdatapdx/Data-Analysis/blob/master/audible-data-cleaning-analysis.ipynb)
+
+# UN Speeches Processing and Analysis
+
+Sometime ago, I had found this collection of text files of UN Speeches from 1970-2020. I thought it would be interesting to process it with the Spacy NLP Library and see what UN Ambassadors were speaking about over the years.
+
+**Data Source:** I don't recall the website I downloaded it from, but the data is linked from my repository below.
+
+[Speech Text Files](https://github.com/ccdatapdx/Data-Analysis/tree/master/TXT)
+
+[The Jupyter Notebook for analysis](https://github.com/ccdatapdx/Data-Analysis/blob/master/un-speeches-analysis.ipynb)
+
+[The script used to process the files](https://github.com/ccdatapdx/Data-Analysis/blob/master/un_speech_processing.py)
+
 # Techmeme Headlines Pipeline
 ![system diagram of youtube comments pipeline](https://github.com/ccdatapdx/Portfolio/blob/master/techmeme_headlines_pipeline.png)
 
